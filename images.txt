@@ -5,3 +5,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 lusson/charging-backup:v1.0
 lusson/charging-frontend:v1.0
+nginx:1.27.1
